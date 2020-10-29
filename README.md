@@ -1,4 +1,4 @@
-# 203-SPIFFS-vs-LITTELFS
+# 203 SPIFFS vs LITTELFS
 ## A simple, on-board file system for your ESP32 &amp; ESP8266
 
 So we have the equivalent of a very small SSD in each of our ESP8266s and ESP32s but it mostly remains unused. Instead of using SD cards for trivial files let's use the built in flash file store.
