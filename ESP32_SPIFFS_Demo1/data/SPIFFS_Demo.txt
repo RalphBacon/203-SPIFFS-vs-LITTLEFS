@@ -1,0 +1,3 @@
+If you can read this from the
+Arduino sketch then you are
+successfully reading a SPIFFS file!
