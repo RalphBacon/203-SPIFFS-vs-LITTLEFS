@@ -62,7 +62,11 @@ Note: You need the following 3 files:
 esp32fs.zip, mkfatfs.zip and x86_64-64.minw32-mklittlefs-....zip  
 
 Above is a fork from the original code here:  
-https://github.com/me-no-dev/arduino-esp32fs-plugin  
+https://github.com/me-no-dev/arduino-esp32fs-plugin
+
+**Dennis Phillips** (viewer) says:
+I thought it might be worth mentioning that for users of PlatformIO the tools are also available. https://github.com/lorol/LITTLEFS/tree/master/examples/LITTLEFS_PlatformIO
+Thanks Dennis!
 
 -------
 ESP8266
