@@ -72,12 +72,12 @@ Thanks Dennis!
 ESP8266
 -------
 
-Arduino IDE ESP8266 filesystem uploader by me-no-dev:  
-https://github.com/esp8266/arduino-esp8266fs-plugin  
-https://github.com/esp8266/arduino-esp8266fs-plugin/releases  
+Arduino IDE ESP8266 filesystem uploader by earlephilhower:
+https://github.com/earlephilhower/arduino-esp8266littlefs-plugin
+https://github.com/earlephilhower/arduino-esp8266littlefs-plugin/releases
 
 Note: You need the following 1 file:
-ESP8266FS-0.5.0.zip (if there is a higher version, take it)
+ESP8266LittleFS-2.6.0.zip (if there is a higher version, take it)
 
 --------
 PRODUCTS
