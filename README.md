@@ -72,8 +72,8 @@ Thanks Dennis!
 ESP8266
 -------
 
-Arduino IDE ESP8266 filesystem uploader by earlephilhower:
-https://github.com/earlephilhower/arduino-esp8266littlefs-plugin
+Arduino IDE ESP8266 filesystem uploader by earlephilhower:  
+https://github.com/earlephilhower/arduino-esp8266littlefs-plugin  
 https://github.com/earlephilhower/arduino-esp8266littlefs-plugin/releases
 
 Note: You need the following 1 file:
