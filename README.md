@@ -68,6 +68,10 @@ https://github.com/me-no-dev/arduino-esp32fs-plugin
 I thought it might be worth mentioning that for users of PlatformIO the tools are also available. https://github.com/lorol/LITTLEFS/tree/master/examples/LITTLEFS_PlatformIO
 Thanks Dennis!
 
+On my system the mklittlefs.exe file is in this folder (alongside espota.exe)  
+C:\Users\Ralph\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\tools
+
+
 -------
 ESP8266
 -------
