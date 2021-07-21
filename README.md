@@ -70,7 +70,7 @@ Thanks Dennis!
 
 On my system the mklittlefs.exe file is in this folder (alongside espota.exe)  
 C:\Users\Ralph\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\tools
-
+<img src="/ESP32 Tools Folder (Package Dependent).jpg">
 
 -------
 ESP8266
